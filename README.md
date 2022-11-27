@@ -1,3 +1,3 @@
 # WaveList
 Trabalho de Web1
-Link do site: https://github.com/xandelopes/Wave-List/
+Link do site: https://xandelopes.github.io/WaveList/
